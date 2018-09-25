@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"expanded":true,"name":"start","order":1,"parentId":0,"scrollX":819,"scrollY":460.5},
+{"id":2,"expanded":true,"name":"head","order":2,"parentId":1,"scrollX":832,"scrollY":640},
+{"id":3,"expanded":true,"name":"A1","order":3,"parentId":2,"scrollX":819,"scrollY":460.5},
+{"id":4,"expanded":false,"name":"A2","order":6,"parentId":2,"scrollX":819,"scrollY":460},
+{"id":5,"expanded":false,"name":"B1","order":4,"parentId":3,"scrollX":819,"scrollY":460.5},
+{"id":6,"expanded":false,"name":"B2","order":5,"parentId":3,"scrollX":819,"scrollY":460.5},
+{"id":7,"expanded":true,"name":"middle","order":7,"parentId":1,"scrollX":832,"scrollY":640},
+{"id":8,"expanded":false,"name":"C1","order":8,"parentId":7,"scrollX":0,"scrollY":0},
+{"id":9,"expanded":false,"name":"C2","order":9,"parentId":7,"scrollX":832,"scrollY":640},
+{"id":10,"expanded":false,"name":"end","order":10,"parentId":1,"scrollX":0,"scrollY":0}
+]
